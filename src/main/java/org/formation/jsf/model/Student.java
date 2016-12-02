@@ -16,10 +16,10 @@ public class Student {
 	private String firstName;
 	private String lastName;
 	private String email;
-	
+
 	public Student() {
 	}
-	
+
 	public Student(int id, String firstName, String lastName, String email) {
 		this.id = id;
 		this.firstName = firstName;
@@ -40,6 +40,7 @@ public class Student {
 	}
 
 	public void setFirstName(String firstName) {
+		firstName = firstName.trim();
 		this.firstName = firstName;
 	}
 
@@ -48,6 +49,8 @@ public class Student {
 	}
 
 	public void setLastName(String lastName) {
+		lastName = lastName.trim();
+		lastName = lastName.toUpperCase();
 		this.lastName = lastName;
 	}
 
@@ -56,13 +59,13 @@ public class Student {
 	}
 
 	public void setEmail(String email) {
+		email.trim();
 		this.email = email;
 	}
 
 	@Override
 	public String toString() {
-		return "Student [id=" + id + ", firstName=" + firstName + ", lastName="
-				+ lastName + ", email=" + email + "]";
+		return "Student [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", email=" + email + "]";
 	}
 
 }

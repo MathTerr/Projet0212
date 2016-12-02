@@ -37,7 +37,7 @@ public class StudentController implements Serializable{
 
 	@PostConstruct
 	public void initService() {
-		System.out.println(this.getClass().getName()+"je suis ;;construit !"+service);
+		System.out.println(this.getClass().getName()+"je suis construit !"+service);
 	}
 
 	public List<Student> getStudents() {

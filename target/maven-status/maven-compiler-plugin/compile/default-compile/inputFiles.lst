@@ -1,8 +1,8 @@
-/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/service/StudentService.java
-/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/util/StudentDbUtil.java
-/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/model/Student.java
-/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/dao/StudentDao.java
-/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/dao/IStudentDao.java
-/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/view/StudentController.java
-/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/service/IStudentService.java
-/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/util/TestServlet.java
+C:\Users\Adminl\workspace_Tomcat\MathildeProjetVendredi\src\main\java\org\formation\jsf\dao\StudentDao.java
+C:\Users\Adminl\workspace_Tomcat\MathildeProjetVendredi\src\main\java\org\formation\jsf\view\StudentController.java
+C:\Users\Adminl\workspace_Tomcat\MathildeProjetVendredi\src\main\java\org\formation\jsf\service\IStudentService.java
+C:\Users\Adminl\workspace_Tomcat\MathildeProjetVendredi\src\main\java\org\formation\jsf\model\Student.java
+C:\Users\Adminl\workspace_Tomcat\MathildeProjetVendredi\src\main\java\org\formation\jsf\dao\IStudentDao.java
+C:\Users\Adminl\workspace_Tomcat\MathildeProjetVendredi\src\main\java\org\formation\jsf\service\StudentService.java
+C:\Users\Adminl\workspace_Tomcat\MathildeProjetVendredi\src\main\java\org\formation\jsf\util\StudentDbUtil.java
+C:\Users\Adminl\workspace_Tomcat\MathildeProjetVendredi\src\main\java\org\formation\jsf\util\TestServlet.java

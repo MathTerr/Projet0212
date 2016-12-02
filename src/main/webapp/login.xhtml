@@ -3,19 +3,22 @@
 	xmlns:h="http://xmlns.jcp.org/jsf/html"
 	xmlns:f="http://xmlns.jcp.org/jsf/core">
 <h:head>
-		<title>Login</title>
+	<title>Connection</title>
 </h:head>
 <h:body>
-	<form method="post" action="j_security_check">
-	
+	<div align="center">
+		<h2>To access FooBar University Database, please log in</h2>
+		<form method="post" action="j_security_check">
 
-			Identifiant:
-			<input name="j_username" />
-
-			Mot de Passe:
-			<input name="j_password" type="password"/>
-			<input value="Se Connecter" type="submit" />
-
-	</form>
+			<p />
+			<LABEL>Login:</LABEL> <input name="j_username" />
+			<p />
+			<LABEL>Password:</LABEL> <input name="j_password" type="password" />
+			<p />
+			<input value="Enter" type="submit" />
+			
+			<INPUT value="Return" type="reset" />
+		</form>
+	</div>
 </h:body>
 </html>
